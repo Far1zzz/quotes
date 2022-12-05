@@ -1,10 +1,10 @@
 package com.if3b.quotes.Model;
 
 public class QuotesModel {
-    private String quotes, author;
+    private String text, author;
 
-    public String getQuotes() {
-        return quotes;
+    public String getText() {
+        return text;
     }
 
     public String getAuthor() {
